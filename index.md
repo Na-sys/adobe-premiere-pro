@@ -122,7 +122,7 @@ You can set an in-point and an out-point in the video if you don't want to have 
 
 If the Project panel is the shelving for your project, then the Timeline panel is the canvas. The Timeline is where you will add clips to your sequences and edit them, which includes adding audio, images, titles, and special effects.
 
-![ss8](/images/libr.jpg)
+![Libr](/images/Libr.jpg)
 
 ## Changing in and out points, closing gaps
 
@@ -134,7 +134,7 @@ If we get gaps between the videos. Right-click to highlight the gap between clip
 
 The blue-line which you are seeing in the timeline is called play head.
 
-![ss9](/images/ss9.png)
+![time](/images/time.png)
 
 You can click and drag the playhead to move it to a desired location, or simply click in the time ruler to move the playhead to that location.
 
@@ -153,7 +153,7 @@ Most of the time you want to leave linking on so you don’t accidentally drag v
  ## Snapping
 The small magnet icon on the top left of your timeline turns Snapping on and off(the horse-shoe symbol). With Snapping on, your clips will "snap" into place next to each other. Or you can position the playhead and drag and snap clips to that location. This greatly speeds up editing, especially if you’re working on a small screen, like a laptop. With Snapping off, you can accidentally leave small gaps between your clips. Most of the time, you'll want to leave snapping on.
 
-![ss10](/images/ss10.png)
+![snap](/images/snap.png)
 
 ## Finesse the audio
 Now that Audio can make or break your project. Clear sound will keep the viewer engaged. Low audio levels, fluctuations, pops or extraneous noises can be distracting, causing the viewer to lose focus interest in the story.

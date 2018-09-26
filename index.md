@@ -49,10 +49,10 @@ Created by Sri Sai Maharshi Kondapaneni
 
    * Using the Faculty Recording Studio
       * In the Digital Scholarship Lab (Hours: M-F 8AM-5PM)
-        * After hours and weekend slots are available by advance appointment.
-    * Reserve the room at http://oudigitalscholar.com/room-booking/
-    * Can capture video/audio of speaker + plus content from a device (slides, images, etc.)
-    * Bring a flash drive to save your recording!  
+        * After hours and weekend slots are available by advance appointment.     
+   * Reserve the room at http://oudigitalscholar.com/room-booking/
+   * Can capture video/audio of speaker + plus content from a device (slides, images, etc.)
+   * Bring a flash drive to save your recording!  
 
 ## EDITING
  * Wide variety of editing software available. Some of the more popular options are iMovie and Adobe Premiere. The computers in HCLC have this software installed. If you want to use iMovie, you can check out MacBook from the Library’s circulation desk. 

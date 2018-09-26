@@ -165,8 +165,9 @@ Waveforms are the visual representation of your audio, much like a histogram sho
 
 If the waveforms are not visible, or the “rubber band” used to control volume is not visible, then use the selector tool to click and drag the track down to make the depth of the track greater.
 
-## image to be placed
+![ad1](/images/ad1.png)
 
+![ad2](/images/ad2.png)
 
 Audio meters are another representation of levels, measured in decibels (dB). Audio peaks at 0 dB. You never want to see red at the top of your meter, which is 0db. The ideal peak levels for multimedia bounce between -3 and -6. The industry standard for broadcast is -12 decibels from maximum. (The difference is that televisions come with robust amplifiers and speakers, so volume can be increased, while home computers and phones strain to overcome room noise at maximum volume.)
 
@@ -185,7 +186,7 @@ Select the Pen Tool by clicking on the icon looks like the tip of an ink pen on 
 
 We can create keyframes by clicking the horizontal audio level line at the points where we want the audio to begin to change. Then move the Pen Tool over a keyframe, click, hold down the mouse button and drag the keyframe point higher to increase the audio, or drag it lower to decrease the audio at that point. Notice that the line will slope up or down to the other keyframes we've created with our Pen Tool, so the audio will fade in or out between the keyframes.
 
-### image to be added
+![key](/images/key.png)
 
 The result of adding and adjusting the position of keyframes up or down on audio clip segments is that the rubber band is reshaped. The higher the rubber band, the louder the sound, the lower the rubber band, the lower the sound.
  
@@ -198,11 +199,11 @@ Text is very effective when you need to convey information quickly to your audie
 
 To create a basic new title, first switch from the Editing workspace to the Title workspace. To do this click on the heading Titles located in the navigation menu at top of the screen. Then pull down from File>New>Legacy Title and you will get a dialog box. Make sure it conforms to the format you think you’re working in, give the title a name and click okay. Which looks similar to this
 
-## image to be added
+![t1](/images/t1.png)
 
 Text has to be on screen long enough for people to read it, but shouldn’t be so jarring or garish that it disrupts the visual flow of the piece. Avoid cutting to a new image with type already on it.
 
-## image to be added
+![t](/images/t.png)
 
 The Titler panel has two box outlines. These designate areas that are “title safe.” That means that a person watching a full screen video on a television is assured of seeing everything inside the title safe box. You can ignore the title safe areas if viewers are only going to see your video in a player on a web page. If there is a full screen option, viewing gets trickier. Most laptops and mobile devices will display all of the video. Less expensive desktop monitors and television monitors tend to encroach a bit on the image. The safest thing to do is to use the larger title safe box as a guide and ensure your type will be visible on almost any device.
 
@@ -211,7 +212,7 @@ We can make colors consistent between adjoining clips so the viewer is not start
 
 Start by toggling from the Editing workspace to the Color workspace.
 
-# image to be added
+![cc](/images/cc.png)
 
 The two panels on the right that you will probably use the most are Basic Correction and Creative.
 

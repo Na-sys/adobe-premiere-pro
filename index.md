@@ -122,7 +122,7 @@ You can set an in-point and an out-point in the video if you don't want to have 
 
 If the Project panel is the shelving for your project, then the Timeline panel is the canvas. The Timeline is where you will add clips to your sequences and edit them, which includes adding audio, images, titles, and special effects.
 
-![ss8](/images/lib.jpg)
+![ss8](/images/libr.jpg)
 
 ## Changing in and out points, closing gaps
 

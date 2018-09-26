@@ -138,24 +138,24 @@ The blue-line which you are seeing in the timeline is called play head.
 
 You can click and drag the playhead to move it to a desired location, or simply click in the time ruler to move the playhead to that location.
 
-# Reodering Clips
+## Reodering Clips
 Once clips are in the timeline, we can use the Selection Tool to click and drag them to a different position in time or to a different track. 
 
 By default, this is an Overlay edit: if we move a clip forward in time it will write over the existing clip for the duration of the clip we are moving. We can use an Insert edit by holding down the Command [CTL] key. When you drag the clip to a different time, it will push other clips back to its tail end and not write over any part of the previous clip. Experiment to see the difference in moving clips with and without the Command key modifier.
 
 The best way to ensure you don’t accidentally overwrite a clip when you are creating space on the timeline is to use the track selector forward tool. This tool highlights all the clips to the right (or to the left if you hold down the shift key) and allows you to move them as a unit.
 
-# Unlinking and relinking (video and audio) clips
+## Unlinking and relinking (video and audio) clips
 
 To unlink audio and video clips from each other completely, right click on the clip, and select Unlink. You can now manipulate audio and video separately. To relink the audio and video portions of the clip, hold the SHIFT key, click each portion, right click and choose Link.
 Most of the time you want to leave linking on so you don’t accidentally drag video and audio clips out of synchronization with each other.
 
- # Snapping
+ ## Snapping
 The small magnet icon on the top left of your timeline turns Snapping on and off(the horse-shoe symbol). With Snapping on, your clips will "snap" into place next to each other. Or you can position the playhead and drag and snap clips to that location. This greatly speeds up editing, especially if you’re working on a small screen, like a laptop. With Snapping off, you can accidentally leave small gaps between your clips. Most of the time, you'll want to leave snapping on.
 
 ![ss10](/images/ss10.png)
 
-# Finesse the audio
+## Finesse the audio
 Now that Audio can make or break your project. Clear sound will keep the viewer engaged. Low audio levels, fluctuations, pops or extraneous noises can be distracting, causing the viewer to lose focus interest in the story.
 
 First, make sure you can see both waveforms and your levels control. Click on the wrench icon on the timeline and a dropdown menu will pop up. Make sure both “Show Audio Waveform” and “Show Audio Keyframes” are selected. We can maximum add only # audio files to a video.
@@ -170,7 +170,7 @@ If the waveforms are not visible, or the “rubber band” used to control volum
 
 Audio meters are another representation of levels, measured in decibels (dB). Audio peaks at 0 dB. You never want to see red at the top of your meter, which is 0db. The ideal peak levels for multimedia bounce between -3 and -6. The industry standard for broadcast is -12 decibels from maximum. (The difference is that televisions come with robust amplifiers and speakers, so volume can be increased, while home computers and phones strain to overcome room noise at maximum volume.)
 
-# Adjusting audio volume
+## Adjusting audio volume
 When you change the volume in Premiere Pro, it is nondestructive -- that is, nothing is changed in your original (source) media file. As with everything in Premiere, there are many ways to change volume. We strongly recommend that you use methods that change the waveform so that you can see that volume has been altered.
 
 ## Adjust audio levels in a sequence
@@ -223,5 +223,9 @@ If you have several clips with common issues you can adjust one, then copy it an
 
 ## Exporting a project
 Pull down from File > Export > Media. This dialog box will appear:
+
+
+Then check the required format you want from the dialogue box that pops up similar to this and then click export. The time to complete the export varies from system to system and even from  one format to another format
+
 
 [Return to Top](#about)

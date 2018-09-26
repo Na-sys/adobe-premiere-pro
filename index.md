@@ -224,8 +224,10 @@ If you have several clips with common issues you can adjust one, then copy it an
 ## Exporting a project
 Pull down from File > Export > Media. This dialog box will appear:
 
+![ex1](/images/ex1.png)
 
 Then check the required format you want from the dialogue box that pops up similar to this and then click export. The time to complete the export varies from system to system and even from  one format to another format
 
+![ex2](/images/ex2.png)
 
 [Return to Top](#about)

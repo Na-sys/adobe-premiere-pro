@@ -12,7 +12,7 @@ Created by Sri Sai Maharshi Kondapaneni
    * [START CREATING YOUR VIDEO](#start-creating-your-video)
    * [ORGANISATION](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
-   * [Changing in and out points,closing gaps](#changing-in-and-out-point-closing-gaps) 
+   * [Changing in out points and closing gaps](#changing-in-out-points-and-closing-gaps) 
    * [Moving the playhead in the timeline](#moving-the-playhead-in-the-timeline)
    * [Reordering clips](#reordering-clips)
    * [Unlinking and relinking (video and audio) clips](#unlinking-and-relinking-video-and-audio-clips)
@@ -124,7 +124,7 @@ If the Project panel is the shelving for your project, then the Timeline panel i
 
 ![Libr](/images/Libr.jpg)
 
-## Changing in and out points,closing gaps
+## Changing in out points and closing gaps
 
 You can change the In point or the Out point of a clip in the timeline by using the Selection tool. Place your cursor over either end of a clip until it changes into a red bracket with a double arrow through it. This is your trim Tool (Trim-in or Trim-out, depending on whether your at the beginning or end of a clip), also known informally as the Red bracket Tool. Click and drag in either direction to shorten or lengthen the clip.
 

@@ -5,12 +5,12 @@ Created by Sri Sai Maharshi Kondapaneni
 # Creating Professional Videos: Tips and Tricks
 
 ## Table of Contents
-* [GETTING STARTED](#getting-started)
-* [FILMING](#filming)
-* [EDITING](#editing)
-* [INTRODUCTION](#introduction)
-   * [START CREATING YOUR VIDEO](#start-creating-your-video)
-   * [ORGANISATION](#organisation)
+* [Getting Started](#getting-started)
+* [Filming](#filming)
+* [Editing](#editing)
+* [Introduction](#introduction)
+   * [Start creating your video](#start-creating-your-video)
+   * [Organisation](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
    * [Changing in out points and closing gaps](#changing-in-out-points-and-closing-gaps) 
    * [Moving the playhead in the timeline](#moving-the-playhead-in-the-timeline)
@@ -23,7 +23,7 @@ Created by Sri Sai Maharshi Kondapaneni
    * [Adjust audio levels in a sequence](#adjust-audio-levels-in-a-sequence)
    * [Add Keyframes](#add-keyframes)
  * [Titles](#titles)
- * [color correction](#color-correction)
+ * [Color correction](#color-correction)
  * [Exporting a Project](#exporting-a-project)
  
 ## Getting Started
@@ -41,7 +41,7 @@ Created by Sri Sai Maharshi Kondapaneni
            * Art supplies
            * Props
            * Whatever else you can imagine
-## FILMING
+## Filming
   * Using own devices
     * Do not shoot in portrait mode. These videos will have a large border in YouTube.    
     * Test the audio and video before doing your final recording.
@@ -54,7 +54,7 @@ Created by Sri Sai Maharshi Kondapaneni
    * Can capture video/audio of speaker + plus content from a device (slides, images, etc.)
    * Bring a flash drive to save your recording!  
 
-## EDITING
+## Editing
  * Wide variety of editing software available. Some of the more popular options are iMovie and Adobe Premiere. The computers in HCLC have this software installed. If you want to use iMovie, you can check out MacBook from the Library’s circulation desk. 
 
  * Lynda.com is a great resource for explore the different software options. 

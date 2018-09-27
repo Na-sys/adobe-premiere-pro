@@ -10,7 +10,7 @@ Created by Sri Sai Maharshi Kondapaneni
 * [EDITING](#editing)
 * [INTRODUCTION](#introduction)
    * [START CREATING YOUR VIDEO](#start-creating-your-video)
-   * [organization](#organisation)
+   * [ORGANISATION](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
    * [Changing in and outpoints,closing gaps](#changing-in-and-out-point,closing-gaps) 
    * [Moving the playhead in the timeline](#Moving-the-playhead-in-the-timeline)
@@ -87,7 +87,7 @@ Audio this is the place where we concentrate on the only audio of the video we a
 
 ## Start Creating your Video
  The editing panel of the Adobe Premiere Pro is the first place we begin, so start by clicking on Editing in the top navigation.
- * Organization
+ * Organisation
  If you spend a few minutes at the start of your project organizing all your assets, it can save you hours later looking for specific clips.
 The Project Panel: Anything you import into Premiere will appear in the Project Panel. Along with many tools for browsing your clips and metadata, the Project Panel has folders called bins, which you use to organize everything.
 

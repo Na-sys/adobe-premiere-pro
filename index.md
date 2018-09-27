@@ -12,10 +12,10 @@ Created by Sri Sai Maharshi Kondapaneni
    * [START CREATING YOUR VIDEO](#start-creating-your-video)
    * [ORGANISATION](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
-   * [Changing in and out points, closing gaps](#changing-in-and-out-point,closing-gaps) 
+   * [Changing in and out points,closing gaps](#changing-in-and-out-point-closing-gaps) 
    * [Moving the playhead in the timeline](#moving-the-playhead-in-the-timeline)
    * [Reordering clips](#reordering-clips)
-   * [Unlinking and relinking (video and audio) clips](#unlinking-and-relinking-(video-and-audio)-clips)
+   * [Unlinking and relinking (video and audio) clips](#unlinking-and-relinking-video-and-audio-clips)
    * [Snapping](#snapping)
  * [Finesse the audio](#finesse-the-audio)
    * [Audio Levels](#audio-levels)
@@ -124,7 +124,7 @@ If the Project panel is the shelving for your project, then the Timeline panel i
 
 ![Libr](/images/Libr.jpg)
 
-## Changing in and out points, closing gaps
+## Changing in and out points,closing gaps
 
 You can change the In point or the Out point of a clip in the timeline by using the Selection tool. Place your cursor over either end of a clip until it changes into a red bracket with a double arrow through it. This is your trim Tool (Trim-in or Trim-out, depending on whether your at the beginning or end of a clip), also known informally as the Red bracket Tool. Click and drag in either direction to shorten or lengthen the clip.
 
@@ -138,7 +138,7 @@ The blue-line which you are seeing in the timeline is called play head.
 
 You can click and drag the playhead to move it to a desired location, or simply click in the time ruler to move the playhead to that location.
 
-## Reodering Clips
+## Reordering clips
 Once clips are in the timeline, we can use the Selection Tool to click and drag them to a different position in time or to a different track. 
 
 By default, this is an Overlay edit: if we move a clip forward in time it will write over the existing clip for the duration of the clip we are moving. We can use an Insert edit by holding down the Command [CTL] key. When you drag the clip to a different time, it will push other clips back to its tail end and not write over any part of the previous clip. Experiment to see the difference in moving clips with and without the Command key modifier.
@@ -171,7 +171,7 @@ If the waveforms are not visible, or the “rubber band” used to control volum
 
 Audio meters are another representation of levels, measured in decibels (dB). Audio peaks at 0 dB. You never want to see red at the top of your meter, which is 0db. The ideal peak levels for multimedia bounce between -3 and -6. The industry standard for broadcast is -12 decibels from maximum. (The difference is that televisions come with robust amplifiers and speakers, so volume can be increased, while home computers and phones strain to overcome room noise at maximum volume.)
 
-## Adjusting audio volume
+## Adjusting audio volumes
 When you change the volume in Premiere Pro, it is nondestructive -- that is, nothing is changed in your original (source) media file. As with everything in Premiere, there are many ways to change volume. We strongly recommend that you use methods that change the waveform so that you can see that volume has been altered.
 
 ## Adjust audio levels in a sequence

@@ -41,7 +41,7 @@ Created by Sri Sai Maharshi Kondapaneni
            * Art supplies
            * Props
            * Whatever else you can imagine
-## FILMING
+ ## FILMING
   * Using own devices
     * Do not shoot in portrait mode. These videos will have a large border in YouTube.    
     * Test the audio and video before doing your final recording.
@@ -70,20 +70,20 @@ Once Adobe Premiere loads up you will get a view like this:
 Start by clicking on create a new project, add a Name for your project and click Ok at the bottom of the screen. 
 Now you will get a screen similar to the image below, which is the main screen where we will be working on. It has four main workspaces: Source, Project Panel, Program, Timeline.
 
-![ss2](/images/ss2.png)
+![1](/images/1.png)
 
 Also, in the top navigation there are additional tabs for refining your video: Assembly, Editing, Color, Effects, Audio, Graphics, Libraries. Assembly (image above) is the place where once we have completed the video, we check everything to make sure it is in sequence or not. 
 
-![ss3](/images/ss3.png)
+![2](/images/2.png)
 
 Editing (image above) is the place where we perform the editing of the video by dragging and placing them in the sequence and going with the theme of the video.
 Color is the place we work in making the changes to the saturation and adjust the brightness levels.
 
-![ss4](/images/ss4.png)
+![c](/images/c.png)
 
 Audio this is the place where we concentrate on the only audio of the video we are planning of making and Graphics is the place we work on editing the text and the graphics we will place in the video.
 
-![ss5](/images/ss5.png)
+![g](/images/g.png)
 
 ## Start Creating your Video
  The editing panel of the Adobe Premiere Pro is the first place we begin, so start by clicking on Editing in the top navigation.

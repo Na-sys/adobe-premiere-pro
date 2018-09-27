@@ -12,7 +12,7 @@ Created by Sri Sai Maharshi Kondapaneni
    * [START CREATING YOUR VIDEO](#start-creating-your-video)
    * [ORGANISATION](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
-   * [Changing in and outpoints,closing gaps](#changing-in-and-out-point,closing-gaps) 
+   * [Changing in and out points, closing gaps](#changing-in-and-out-point,closing-gaps) 
    * [Moving the playhead in the timeline](#Moving-the-playhead-in-the-timeline)
    * [Reordering clips](#Reordering-clips)
    * [Unlinking and relinking (video and audio) clips](#Unlinking-and-relinking-(video-and-audio)-clips)

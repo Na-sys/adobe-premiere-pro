@@ -103,7 +103,7 @@ The Project Panel: Anything you import into Premiere will appear in the Project 
 
 There are four main panels. The first one you need to know is the Project Panel on bottom left-hand side. This is the place where you can import videos to your workspace. 
 
-![ss6](/images/ss6.png)
+![o](/images/o.png)
 
 # You can import in two ways: 
 One way is that when you double-click on the project panel it opens a window from where you can import video files.
@@ -114,7 +114,7 @@ The window on top of the left-hand side is called Source.  The bottom right-hand
 
 Now lets select a clip so we can start creating the video and move it to the Source panel. Once you have selected the clip make sure you go to the Metadata tab to check the framerate of the clip just to make sure that it’s the same framerate of the video you want to make.
 
-![ss7](/images/ss7.png)
+![ss3](/images/ss3.png)
 
 You can set an in-point and an out-point in the video if you don't want to have a particular portion of the video. While the video is playing to create an inpoint click on the “{” button in the source panel and put ”}” (the outpoint) until where we want the video  Now We can just drag and drop the video to the timeline by placing your cursor on the film clip icon located below the video clip.
 

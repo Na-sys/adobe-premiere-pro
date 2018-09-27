@@ -9,7 +9,7 @@ Created by Sri Sai Maharshi Kondapaneni
 * [FILMING](#filming)
 * [EDITING](#editing)
 * [INTRODUCTION](#introduction)
-   * [START CREATING YOUR VIDEO](#Start-creating-your-video)
+   * [START CREATING YOUR VIDEO](#start-creating-your-video)
    * [organization](#organisation)
 * [Navigating the timeline](#navigating-the-timeline)
    * [Changing in and outpoints,closing gaps](#changing-in-and-out-point,closing-gaps) 

@@ -158,7 +158,7 @@ The small magnet icon on the top left of your timeline turns Snapping on and off
 ## Finesse the audio
 Now that Audio can make or break your project. Clear sound will keep the viewer engaged. Low audio levels, fluctuations, pops or extraneous noises can be distracting, causing the viewer to lose focus interest in the story.
 
-First, make sure you can see both waveforms and your levels control. Click on the wrench icon on the timeline and a dropdown menu will pop up. Make sure both “Show Audio Waveform” and “Show Audio Keyframes” are selected. We can maximum add only # audio files to a video.
+First, make sure you can see both waveforms and your levels control. Click on the wrench icon on the timeline and a dropdown menu will pop up. Make sure both “Show Audio Waveform” and “Show Audio Keyframes” are selected. We can maximum add only three audio files to a video.
 
 ## Audio levels
 Waveforms are the visual representation of your audio, much like a histogram shows the distribution of light in a photograph. They are useful in editing so you can see how high or low the recorded levels are, and what adjustments you may need to make.

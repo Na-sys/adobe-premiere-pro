@@ -41,6 +41,7 @@ Created by Sri Sai Maharshi Kondapaneni
            * Art supplies
            * Props
            * Whatever else you can imagine
+           
 ## Filming
   * Using own devices
     * Do not shoot in portrait mode. These videos will have a large border in YouTube.    

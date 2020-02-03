@@ -10,7 +10,7 @@ Created by Sri Sai Maharshi Kondapaneni
 * [Editing](#editing)
 * [Introduction](#introduction)
    * [Start creating your video](#start-creating-your-video)
-   * [Organisation](#organisation)
+   * [Organization](#organization)
 * [Navigating the timeline](#navigating-the-timeline)
    * [Changing in out points and closing gaps](#changing-in-out-points-and-closing-gaps) 
    * [Moving the playhead in the timeline](#moving-the-playhead-in-the-timeline)
